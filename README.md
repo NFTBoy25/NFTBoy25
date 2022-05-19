@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NFTBoy25
 - 👀 I’m interested in programming and developing
-- 🌱 I’m currently learning full stack web development and blockchain
+- 🌱 I’m currently learning full stack web development and blockchain technology
 - 💞️ I’m looking to collaborate with developers community
 - I am 18 yrs old
 
