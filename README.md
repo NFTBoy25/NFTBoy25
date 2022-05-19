@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NFTBoy25
 - 👀 I’m interested in programming and developing
 - 🌱 I’m currently learning full stack web development and blockchain technology
-- 💞️ I’m looking to collaborate with developers community
+- 💞️ I’m looking for to collaborate with developers community
 -HELLO WORLD
 
 <!---
